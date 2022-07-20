@@ -1,10 +1,10 @@
-### Hi there, I'm yaviral17 aka [yaviral1757][website] 👋 
+### Hi there, I'm yaviral17 aka [yaviral17][website] 👋 
 ---
 <div align="center">
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=yaviral1757.visitor-badge"/> <img align="center" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)" alt="Open Source Love Badge" vspace="100" hspace="10"/> 
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=yaviral17.visitor-badge"/> <img align="center" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)" alt="Open Source Love Badge" vspace="100" hspace="10"/> 
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaviral1757&theme=algolia&show_icons=true"(https://github.com/yaviral1757/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaviral17&theme=algolia&show_icons=true"(https://github.com/yaviral1757/github-readme-stats)
 </div>
 
 ---
