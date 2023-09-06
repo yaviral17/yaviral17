@@ -1,3 +1,7 @@
+
+![github-header-image (3)](https://github.com/yaviral17/yaviral17/assets/58760825/6c666fda-88dd-467e-892c-3b9028cdabda)
+
+
 [![](https://visitcount.itsvg.in/api?id=yaviral17&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudo_yavi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaviral17) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@voldizone)
