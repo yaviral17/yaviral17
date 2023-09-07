@@ -11,11 +11,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaviral17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaviral17/yaviral17/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaviral17/yaviral17/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yaviral17/yaviral17/output/github-contribution-grid-snake.svg">
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </picture>
 ---
 
