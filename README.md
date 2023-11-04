@@ -12,13 +12,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yaviral17&theme=dark&hide_border=true&border_radius=12)](https://git.io/streak-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaviral17/yaviral17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaviral17/yaviral17/output/github-contribution-grid-snake.svg">
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</picture>
 
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
