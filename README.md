@@ -1,4 +1,4 @@
-<h2><b> Hi There, I am Aviral a Frontend Developer</b> </h2>
+<h2><b> Hi There, I am Aviral and I develop softwares for fun and curiosity</b> </h2>
 
 
 
