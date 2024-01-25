@@ -13,6 +13,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=yaviral17&theme=dark&hide_border=true&border_radius=12)](https://git.io/streak-stats)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
-
-
