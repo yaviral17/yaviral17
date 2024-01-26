@@ -12,4 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaviral17&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)   
 [![GitHub Streak](https://streak-stats.demolab.com?user=yaviral17&theme=dark&hide_border=true&border_radius=12)](https://git.io/streak-stats)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
