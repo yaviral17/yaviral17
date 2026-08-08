@@ -1,4 +1,4 @@
-<h2><b> Hi There, I am Aviral and I develop softwares for fun and curiosity</b> </h2>
+<h2><b> Hi There, I am Aviral and I develop softwares for fun😃, curiosity🔬 and Money💰 </b> </h2>
 
 
 
